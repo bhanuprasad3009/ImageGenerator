@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AetherArt AI - Ultimate AI Image Generator
 
 AetherArt AI is a premium, responsive, and visually stunning full-stack AI Image Generator web application. Inspired by Midjourney and Leonardo AI, it features futuristic neon glassmorphism design, advanced canvas integrations, AI prompt engineering enhancements, social feeds, and a full Stripe subscription sandbox.
@@ -139,3 +140,7 @@ AetherArt/
 1. Create a project on [Vercel](https://vercel.com/) pointing to the `client/` subdirectory.
 2. Configure build command `npm run build` and output directory `dist`.
 3. Set environment variable `VITE_API_URL` pointing to your live Render server address (e.g. `https://aetherart-api.onrender.com/api`).
+=======
+# ImageGenerator
+>>>>>>> 510db5e7ab8aed8ae869aaf6fe7facecf78d5fa8
+<!-- Repushed at 2026-05-31T15:33:35+05:30 -->
